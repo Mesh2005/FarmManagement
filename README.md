@@ -78,7 +78,6 @@ Cloud deployment (AWS / Vercel)
 
 Meshan Tharusha Ranawana
 🎓 SLIIT City University
-🔗 GitHub: https://github.com/your-username
 
 📄 License
 
