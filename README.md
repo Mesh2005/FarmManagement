@@ -34,7 +34,6 @@ Styling: CSS / Tailwind / Bootstrap
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/abeyrathna-farm-enterprises.git
 
 2️⃣ Backend setup
 cd server
